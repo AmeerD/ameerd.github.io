@@ -1,7 +1,7 @@
 ---
 title: Ameer Dharamshi
 subtitle: | 
- | (Incoming) Assistant Professor, Department of Mathematics and Statistics, McGill University
+ <!-- | (Incoming) Assistant Professor, Department of Mathematics and Statistics, McGill University -->
 
 about:
   id: head
