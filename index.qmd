@@ -1,7 +1,7 @@
 ---
 title: Ameer Dharamshi
 subtitle: | 
- <!-- | (Incoming) Assistant Professor, Department of Mathematics and Statistics, McGill University -->
+ <!-- | Assistant Professor, Department of Mathematics and Statistics, McGill University -->
 
 about:
   id: head
@@ -30,9 +30,9 @@ about:
 
 ### About Me
 
-I am an incoming Assistant Professor in the Department of Mathematics and Statistics at McGill University. I recently completed my PhD in the Department of Biostatistics at the University of Washington under the supervision of Professors Daniela Witten and Jon Wakefield. My research focuses on developing strategies for selective inference and predictive model uncertainty quantification that are applicable in complex data settings and/or with small sample sizes. I also actively work on collaborative projects in demography, global development, and quantitative social science that aim to estimate various population indicators (e.g., mortality, fertility, and school completion rates) at national and subnational levels.
+I am an Assistant Professor in the Department of Mathematics and Statistics at McGill University. My research focuses on developing strategies for post-selection inference and predictive model uncertainty quantification that are applicable in complex data settings and/or with small sample sizes. I also actively work on collaborative projects in demography, global development, and quantitative social science that aim to estimate various population indicators (e.g., mortality, fertility, and school completion rates) at national and subnational levels.
 
-Previously, I worked as a research and data consultant for the [Global Education Monitoring Report](https://en.unesco.org/gem-report/) at UNESCO. I completed my Master of Science in Statistical Sciences at the University of Toronto and my Bachelor of Mathematics at the University of Waterloo. 
+I recently completed my PhD in the Department of Biostatistics at the University of Washington under the supervision of Professors Daniela Witten and Jon Wakefield. Previously, I worked as a research and data consultant for the [Global Education Monitoring Report](https://en.unesco.org/gem-report/) at UNESCO. I completed my Master of Science in Statistical Sciences at the University of Toronto and my Bachelor of Mathematics at the University of Waterloo. 
 
 For more about my academic and professional experiences, please see my [Research](pages/publications.qmd) and [CV](pages/cv.qmd). I am always looking for interesting collaborations so if you have a project in mind, please do feel free to reach out!
 
