@@ -6,13 +6,13 @@ subtitle: |
 about:
   id: head
   template: trestles
-  image: files/profile_UW.jpeg
+  image: files/profile_AD.jpeg
   image-width: 15em
   image-shape: round
   links:
     - icon: envelope
       text: Email
-      href: mailto:adharams@uw.edu
+      href: mailto:ameer.dharamshi@mcgill.ca
     - icon: mortarboard-fill
       text: Google Scholar
       href: https://scholar.google.com/citations?user=DhpLxlQAAAAJ&hl=en&oi=ao
