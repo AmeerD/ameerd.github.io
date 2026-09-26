@@ -11,10 +11,10 @@ website:
       #   text: About
       - href: pages/publications.qmd
         text: Research
-      # - href: pages/teaching.qmd
-      #   text: Teaching
-      # - href: pages/lab.qmd
-      #   text: Lab
+      - href: pages/teaching.qmd
+        text: Teaching
+      - href: pages/lab.qmd
+        text: Lab
       - href: pages/cv.qmd
         text: CV
       # - href: pages/resources.qmd
